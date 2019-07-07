@@ -1,0 +1,11 @@
+[Thu Nov 15 10:24:20 2018] Image Processing > Opening camera device
+[Thu Nov 15 10:24:20 2018] Image Processing > Writing camera video device
+[Thu Nov 15 10:24:20 2018] System > ========================= | ITERATION (1) | =========================
+[Thu Nov 15 10:24:21 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:24:21 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:24:21 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:24:21 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:24:21 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:24:21 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:24:21 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:24:21 2018] Image Processing > Manuver | Direction : Center with Speed : 

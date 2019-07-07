@@ -1,0 +1,322 @@
+[Thu Nov 15 10:29:03 2018] Image Processing > Opening camera device
+[Thu Nov 15 10:29:03 2018] Image Processing > Writing camera video device
+[Thu Nov 15 10:29:03 2018] System > ========================= | ITERATION (1) | =========================
+[Thu Nov 15 10:29:04 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:04 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:04 2018] System > ========================= | ITERATION (2) | =========================
+[Thu Nov 15 10:29:04 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:04 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:04 2018] System > ========================= | ITERATION (3) | =========================
+[Thu Nov 15 10:29:04 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:04 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:04 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:04 2018] System > ========================= | ITERATION (4) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (5) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (6) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (7) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (8) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (9) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (10) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (11) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Center with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (12) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 73, X: 127
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 163
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (13) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 69, X: 123
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 157
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (14) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 97, X: 139
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 187
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (15) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 99, X: 146
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 195
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (16) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 105, X: 144
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 196
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (17) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 98, X: 140
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 189
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (18) | =========================
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 91, X: 144
+[Thu Nov 15 10:29:05 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left : 189
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Red Left Mapping : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:05 2018] Image Processing > Error | Calculate Total : 7
+[Thu Nov 15 10:29:05 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:05 2018] System > ========================= | ITERATION (19) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 95, X: 125
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 172
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (20) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 84, X: 139
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 181
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 7
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 7
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (21) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 82, X: 138
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 179
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 7
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 7
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (22) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 74, X: 130
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 167
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (23) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 101, X: 151
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 201
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 8
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 8
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (24) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 100, X: 93
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 143
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 5
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 5
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (25) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 84, X: 118
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 160
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (26) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 58, X: 118
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 147
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 5
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 5
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (27) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 65, X: 129
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 161
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (28) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 98, X: 94
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 143
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 5
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 5
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (29) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 97, X: 108
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 156
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (30) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 74, X: 117
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 154
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (31) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 68, X: 120
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 154
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (32) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 67, X: 119
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 152
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (33) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 68, X: 125
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 159
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (34) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 68, X: 131
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 165
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:06 2018] System > ========================= | ITERATION (35) | =========================
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Red Ball Found | Radius : 67, X: 122
+[Thu Nov 15 10:29:06 2018] Image Processing > Object Contouring | Green Ball Not Found
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left : 155
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Red Left Mapping : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Green Right Mapping : 0
+[Thu Nov 15 10:29:06 2018] Image Processing > Error | Calculate Total : 6
+[Thu Nov 15 10:29:06 2018] Image Processing > Manuver | Direction : Right with Speed : 
+[Thu Nov 15 10:29:07 2018] System > Interupting Program...
+[Thu Nov 15 10:29:07 2018] Image Processing > Releasing camera device
+[Thu Nov 15 10:29:07 2018] Image Processing > Saving video camera
+[Thu Nov 15 10:29:07 2018] Image Processing > Destroying All Windows
+[Thu Nov 15 10:29:07 2018] System > Shutdown Program...
